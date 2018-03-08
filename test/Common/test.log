@@ -1,0 +1,85 @@
+
+2017-12-31 16:01:52,551 INFO    : this is information
+2017-12-31 16:01:52,551 WARNING : this is warning message
+2017-12-31 16:01:52,551 ERROR   : this is error message
+2017-12-31 16:01:52,551 CRITICAL: this is fatal message, it is same as logger.critical
+2017-12-31 16:01:52,551 CRITICAL: this is critical message
+2017-12-31 16:01:52,551 INFO    : this is information
+2017-12-31 16:01:52,551 INFO    : this is information
+2017-12-31 16:01:52,551 WARNING : this is warning message
+2017-12-31 16:01:52,551 WARNING : this is warning message
+2017-12-31 16:01:52,551 ERROR   : this is error message
+2017-12-31 16:01:52,551 ERROR   : this is error message
+2017-12-31 16:01:52,551 CRITICAL: this is fatal message, it is same as logger.critical
+2017-12-31 16:01:52,551 CRITICAL: this is fatal message, it is same as logger.critical
+2017-12-31 16:01:52,551 CRITICAL: this is critical message
+2017-12-31 16:01:52,551 CRITICAL: this is critical message
+2017-12-31 16:02:49,999 INFO    : this is information
+2017-12-31 16:02:49,999 WARNING : this is warning message
+2017-12-31 16:02:49,999 ERROR   : this is error message
+2017-12-31 16:02:49,999 CRITICAL: this is fatal message, it is same as logger.critical
+2017-12-31 16:02:49,999 CRITICAL: this is critical message
+2017-12-31 16:02:50,015 INFO    : this is information
+2017-12-31 16:02:50,015 WARNING : this is warning message
+2017-12-31 16:02:50,015 ERROR   : this is error message
+2017-12-31 16:02:50,015 CRITICAL: this is fatal message, it is same as logger.critical
+2017-12-31 16:02:50,015 CRITICAL: this is critical message
+test
+test
+2017-12-31 16:35:23,531 INFO    : test
+2017-12-31 16:35:45,237 WARNING : test
+2017-12-31 16:36:01,403 WARNING : test
+2017-12-31 16:37:10,591 WARNING : test
+2017-12-31 16:38:36,949 WARNING : test
+2017-12-31 16:38:36,949 INFO    : buyunhui
+2017-12-31 16:38:56,180 WARNING : test
+2017-12-31 16:38:56,181 INFO    : buyunhui
+2017-12-31 16:39:51,666 WARNING : test
+2017-12-31 16:39:51,666 INFO    : buyunhui
+2017-12-31 16:40:00,555 INFO    : this is information
+2017-12-31 16:40:00,555 WARNING : this is warning message
+2017-12-31 16:40:00,555 ERROR   : this is error message
+2017-12-31 16:40:00,555 CRITICAL: this is fatal message, it is same as logger.critical
+2017-12-31 16:40:00,555 CRITICAL: this is critical message
+2017-12-31 16:40:19,312 INFO    : this is information
+2017-12-31 16:40:19,312 WARNING : this is warning message
+2017-12-31 16:40:19,312 ERROR   : this is error message
+2017-12-31 16:40:19,312 CRITICAL: this is fatal message, it is same as logger.critical
+2017-12-31 16:40:19,312 CRITICAL: this is critical message
+2017-12-31 16:40:25,679 WARNING : test
+2017-12-31 16:40:25,679 INFO    : this is information
+2017-12-31 16:40:25,679 INFO    : this is information
+2017-12-31 16:40:25,679 WARNING : this is warning message
+2017-12-31 16:40:25,679 WARNING : this is warning message
+2017-12-31 16:40:25,679 ERROR   : this is error message
+2017-12-31 16:40:25,679 ERROR   : this is error message
+2017-12-31 16:40:25,679 CRITICAL: this is fatal message, it is same as logger.critical
+2017-12-31 16:40:25,679 CRITICAL: this is fatal message, it is same as logger.critical
+2017-12-31 16:40:25,679 CRITICAL: this is critical message
+2017-12-31 16:40:25,679 CRITICAL: this is critical message
+2017-12-31 16:41:24,952 INFO    : this is information
+2017-12-31 16:41:24,952 WARNING : this is warning message
+2017-12-31 16:41:24,952 ERROR   : this is error message
+2017-12-31 16:41:24,952 CRITICAL: this is fatal message, it is same as logger.critical
+2017-12-31 16:41:24,952 CRITICAL: this is critical message
+2017-12-31 16:41:59,059 WARNING : test
+2017-12-31 16:42:07,398 WARNING : test
+2017-12-31 16:45:01,624 WARNING : test
+2017-12-31 16:50:57,937 WARNING : test
+2017-12-31 16:50:57,937 WARNING : test
+2017-12-31 16:52:43,309 INFO    : Entering function name:testClass
+2017-12-31 16:52:43,310 INFO    : Exited function name:testClass
+2017-12-31 16:53:08,523 INFO    : Entering function name:testClass
+2017-12-31 16:53:08,523 INFO    : Exited function name:testClass
+2017-12-31 16:53:28,887 INFO    : Entering function name:testClass
+2017-12-31 16:53:28,887 INFO    : Exited function name:testClass
+2017-12-31 16:54:18,162 INFO    : Entering function name:testClass
+2017-12-31 16:54:18,162 INFO    : Exited function name:testClass
+2017-12-31 17:01:39,464 INFO    : Entering function name:testClass
+2017-12-31 17:01:39,464 INFO    : Exited function name:testClass
+2017-12-31 17:09:35,082 INFO    : Entering function name:testClass
+2017-12-31 17:09:35,082 INFO    : end function testClass and cost time:0.0001971077443212087
+2017-12-31 17:13:23,573 INFO    : Entering function name:testClass
+2017-12-31 17:13:23,573 INFO    : end function testClass and cost time:0.00021753964464718765
+2017-12-31 17:27:03,127 INFO    : Entering function name:testClass
+2017-12-31 17:27:03,127 INFO    : end function testClass and cost time:0.0001907978927499505
